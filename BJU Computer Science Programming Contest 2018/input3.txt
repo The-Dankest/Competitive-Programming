@@ -1,0 +1,14 @@
+<recipe> 
+<title>Spicy Gator <smileyface/>Bites</title> 
+<source>Georgia <red>Bulldog</red> 
+Cookbook</source> 
+<ingredient_list> 
+<item>1 Gator Tail 
+<preparation>Diced into one inch cubes. 
+</preparation></item> 
+<item>Hot grease <danger_indication/></item> 
+</ingredient_list> 
+<preparation><step>Drop meat into oil.</step> 
+<step>Remove meat from oil.</step> 
+</preparation> 
+</recipe>

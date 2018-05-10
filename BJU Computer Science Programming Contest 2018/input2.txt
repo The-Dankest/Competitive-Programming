@@ -1,0 +1,9 @@
+4 4
+a
+b
+aa
+a ab
+a
+b
+a 
+a a

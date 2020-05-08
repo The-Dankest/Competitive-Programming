@@ -1,5 +1,2 @@
-def gcd(x, y):
-    return x if y == 0 else gcd(y, x % y)
-
-def lcm(x, y):
-    return x * (y / gcd(x, y))
+def gcd(a, b): return a if b == 0 else gcd(b, a % b)
+def lcm(a, b): return a * (b // gcd(a, b))

@@ -1,0 +1,11 @@
+10
+major
+minor
+minor
+release
+major
+release
+minor
+patch
+patch
+release
